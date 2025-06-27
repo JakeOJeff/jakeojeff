@@ -7,5 +7,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JakeOJeff&theme=dark&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-contributor-stats.vercel.app/api?username=JakeOJeff&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

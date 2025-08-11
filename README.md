@@ -18,7 +18,7 @@ I love lua <3
 
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=617&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )
- ![](https://github-readme-stats.vercel.app/api?username=JakeOJeff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=JakeOJeff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=JakeOJeff&theme=dark&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

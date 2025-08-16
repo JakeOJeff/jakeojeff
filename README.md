@@ -23,3 +23,4 @@ I love lua <3
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jakeojeff)](https://github.com/jakeojeff)

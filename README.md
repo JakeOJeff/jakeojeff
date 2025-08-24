@@ -22,5 +22,5 @@ I love lua <3
 <!--!![](https://nirzak-streak-stats.vercel.app/?user=JakeOJeff&theme=dark&hide_border=false)<br/>-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+![](https://github-readme-stats.vercel.app/api?username=jakeojeff&show_icons=true&theme=dark&include_all_commits=true&rank_icon=percentile)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jakeojeff)](https://github.com/jakeojeff)-->
